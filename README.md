@@ -5,7 +5,7 @@ utility to handle circular reference for JSON stringify and unexpected token for
 
 # installation
 ```
-npm i git+ssh://git@gitlab.com:goniyo/niyox/equitas/jsonutility.git 
+npm i git+ssh://git@github.com:ajayprasad1982/jsonutility.git 
 ```
 # how to use it
 
